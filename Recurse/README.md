@@ -11,4 +11,5 @@
 | 7    | [最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/) | [c++](source/leetcode654.cpp) |
 | 8    | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [c++](source/leetcode105.cpp) |
 | 9    | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [c++](source/leetcode106.cpp) |
+| 10   | [寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/) | [c++](source/leetcode652.cpp) |
 
