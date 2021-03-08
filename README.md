@@ -8,4 +8,5 @@
 | 4    | [二分查找](BinarySearch)    |
 | 5    | [滑动窗口](SlidingWindow)   |
 | 6    | [递归](Recurse)             |
+| 7    | [栈](Stack)                 |
 
