@@ -7,4 +7,5 @@
 | 3    | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [c++](source/leetcode234)     |
 | 4    | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [c++](source/leetcode226.cpp) |
 | 5    | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [c++](source/leetcode116.cpp) |
+| 6    | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [c++](source/leetcoe114.cpp)  |
 
