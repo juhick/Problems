@@ -7,4 +7,5 @@
 | 3    | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [c++](source/leetcode121.cpp)  |
 | 4    | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [c++](source/leetcode122.cpp)  |
 | 5    | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [c++](source/leetcode309.cpp)  |
+| 6    | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [c++](source/leetcode714.cpp)  |
 
