@@ -10,4 +10,5 @@
 | 6    | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [c++](source/leetcode714.cpp)  |
 | 7    | [买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [c++](source/leetcode123.cpp)  |
 | 8    | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | [c++](source/leetcode188.cpp)  |
+| 9    | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   | [c++](source/leetcode198.cpp)  |
 
