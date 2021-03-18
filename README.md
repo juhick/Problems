@@ -10,4 +10,5 @@
 | 6    | [递归](Recurse)             |
 | 7    | [栈](Stack)                 |
 | 8    | [区间问题](Interval)        |
+| 9    | [n数之和](nSum)             |
 
