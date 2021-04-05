@@ -17,4 +17,5 @@
 | 13   | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [c++](source/leetcode236.cpp) |
 | 14   | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [c++](source/leetcode124.cpp) |
 | 15   | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | [c++](source/leetcode99.cpp)  |
+| 16   | [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [c++](leetcode-offer26.cpp)   |
 
